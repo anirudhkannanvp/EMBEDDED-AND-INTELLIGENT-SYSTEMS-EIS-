@@ -1,0 +1,5 @@
+C:\Users\dark_wolf\Documents\CY8CKIT-059\Design02\Design02.cydsn\Design02.cyprj|fca6bfa0-2662-4650-a410-4eff3f9d38da
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|56edd85b-2dae-4185-ac43-e1a149d5ea86
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|fd2b9f39-807f-43d8-b124-fc107cf86cb6
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|5f2060c7-0487-4c09-99c1-e0252a997a3d
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|5ef0a1f2-7a29-4e5c-951b-2d683c14e843
